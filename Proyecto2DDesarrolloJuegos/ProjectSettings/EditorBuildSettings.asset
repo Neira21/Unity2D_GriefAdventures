@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: aa8fff19d3da39c4ca527b47e1d3b860
+  - enabled: 1
+    path: Assets/Scenes/Historia1.unity
+    guid: dfe90565776544b4d9d6f0d2108ff3af
+  - enabled: 1
+    path: Assets/Scenes/Historia2.unity
+    guid: 1d14e8b4b36b76643a52f98116b5c65f
+  - enabled: 1
+    path: Assets/Scenes/Historia3.unity
+    guid: 1dc6422d1c222d3479f789ea17f17941
+  - enabled: 1
+    path: Assets/Scenes/Historia4.unity
+    guid: d5679bcad3d479f4e8a2bef8e69eabaa
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 0fe43aa43e7fa344995a0b1d66ceef06
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: a5a90e0976066d44ebf46b4a28030a8f
+  - enabled: 1
+    path: Assets/Scenes/FinalHistoria.unity
+    guid: 089c121273b960a4cbf7d2525d641a59
+  m_configObjects: {}
